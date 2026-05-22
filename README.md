@@ -1,13 +1,26 @@
-# Hi, I'm BandrewDev 👋
+<h1 align="left"></h1>
 
-> _"If it's not self-hosted, it's not mine."_
+###
 
-Infrastructure engineer who builds things from scratch and keeps them running at 3 AM.
-I run a homelab-powered hosting business and love getting my hands dirty with networking, servers, and everything in between.
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
----
+###
 
-## 🔧 What I Work On
+<h1 align="left">Hi, I'm BandrewDev 👋</h1>
+
+###
+
+<h4 align="left">| "If it's not self-hosted, it's not mine."</h4>
+
+###
+
+<p align="left">Infrastructure engineer who builds things from scratch and keeps them running at 3 AM. I run a homelab-powered hosting business and love getting my hands dirty with networking, servers, and everything in between.</p>
+
+###
+
+<h1 align="left">🔧 What I Work On</h1>
 
 |                                    |                                                                    |
 | ---------------------------------- | ------------------------------------------------------------------ |
@@ -17,35 +30,64 @@ I run a homelab-powered hosting business and love getting my hands dirty with ne
 | 💻 **Web Development**             | Laravel, Node.js, custom tooling — I'd rather build it than buy it |
 | 📡 **Esports & Broadcast Tech**    | Live overlays, observer tooling, tournament management systems     |
 
----
 
-## 🛠️ Stack
+###
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<h1 align="left">🛠️ Stack</h1>
 
----
+###
 
-## 🏪 BANDREW STORE
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+</div>
 
-Game server & application hosting — self-hosted, production-grade, built from scratch.
-Minecraft · FiveM · Custom App Hosting · Managed with Pterodactyl
+###
 
-[![Discord BandrewStore](https://discord.com/api/guilds/1057947763398160404/widget.png?style=banner2)](https://discord.gg/a7RffWn6hh)
+<h1 align="left">🏪 BANDREW STORE</h1>
 
----
+###
 
-## 📊 GitHub Stats
+<p align="left">Game server & application hosting — self-hosted, production-grade, built from scratch. Minecraft · FiveM · Custom App Hosting · Managed with Pterodactyl</p>
 
-![BandrewDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewlewa&show_icons=true&theme=default&hide_border=true&count_private=true)
+###
 
----
+<h1 align="left">📊 GitHub Stats</h1>
 
-_🇮🇩 Based in Indonesia · Open to collaborate_
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/andrewlewa/andrewlewa/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/andrewlewa/andrewlewa/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<h3 align="left">🇮🇩 Based in Indonesia · Open to collaborate</h3>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
