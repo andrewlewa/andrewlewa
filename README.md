@@ -30,6 +30,17 @@
 
 ###
 
+|                                    |                                                                    |
+| ---------------------------------- | ------------------------------------------------------------------ |
+| 🖥️ **Self-Hosting & Homelab**      | Proxmox, Docker, NAS, bare-metal — full stack ownership            |
+| 🎮 **Game Server Hosting**         | Minecraft, FiveM, Pterodactyl — powering communities from home     |
+| 🌐 **Networking & Infrastructure** | MikroTik, WireGuard, reverse tunneling, policy-based routing       |
+| 💻 **Web Development**             | Laravel, Node.js, custom tooling — I'd rather build it than buy it |
+| 📡 **Esports & Broadcast Tech**    | Live overlays, observer tooling, tournament management systems     |
+
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
