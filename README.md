@@ -14,9 +14,6 @@
 
 ###
 
-<h1 align="left">🛠️ Stack</h1>
-
-###
 
 |                                    |                                                                    |
 | ---------------------------------- | ------------------------------------------------------------------ |
@@ -26,6 +23,10 @@
 | 💻 **Web Development**             | Laravel, Node.js, custom tooling — I'd rather build it than buy it |
 | 📡 **Esports & Broadcast Tech**    | Live overlays, observer tooling, tournament management systems     |
 
+
+###
+
+<h1 align="left">🛠️ Stack</h1>
 
 ###
 
