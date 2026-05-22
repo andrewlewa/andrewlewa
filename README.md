@@ -1,6 +1,6 @@
 # Hi, I'm BandrewDev 👋
 
-> *"If it's not self-hosted, it's not mine."*
+> _"If it's not self-hosted, it's not mine."_
 
 Infrastructure engineer who builds things from scratch and keeps them running at 3 AM.
 I run a homelab-powered hosting business and love getting my hands dirty with networking, servers, and everything in between.
@@ -9,13 +9,13 @@ I run a homelab-powered hosting business and love getting my hands dirty with ne
 
 ## 🔧 What I Work On
 
-| | |
-|---|---|
-| 🖥️ **Self-Hosting & Homelab** | Proxmox, Docker, NAS, bare-metal — full stack ownership |
-| 🎮 **Game Server Hosting** | Minecraft, FiveM, Pterodactyl — powering communities from home |
-| 🌐 **Networking & Infrastructure** | MikroTik, WireGuard, reverse tunneling, policy-based routing |
-| 💻 **Web Development** | Laravel, Node.js, custom tooling — I'd rather build it than buy it |
-| 📡 **Esports & Broadcast Tech** | Live overlays, observer tooling, tournament management systems |
+|                                    |                                                                    |
+| ---------------------------------- | ------------------------------------------------------------------ |
+| 🖥️ **Self-Hosting & Homelab**      | Proxmox, Docker, NAS, bare-metal — full stack ownership            |
+| 🎮 **Game Server Hosting**         | Minecraft, FiveM, Pterodactyl — powering communities from home     |
+| 🌐 **Networking & Infrastructure** | MikroTik, WireGuard, reverse tunneling, policy-based routing       |
+| 💻 **Web Development**             | Laravel, Node.js, custom tooling — I'd rather build it than buy it |
+| 📡 **Esports & Broadcast Tech**    | Live overlays, observer tooling, tournament management systems     |
 
 ---
 
@@ -37,14 +37,15 @@ I run a homelab-powered hosting business and love getting my hands dirty with ne
 
 Game server & application hosting — self-hosted, production-grade, built from scratch.
 Minecraft · FiveM · Custom App Hosting · Managed with Pterodactyl
+
 [![Discord BandrewStore](https://discord.com/api/guilds/1057947763398160404/widget.png?style=banner2)](https://discord.gg/a7RffWn6hh)
 
 ---
 
 ## 📊 GitHub Stats
 
-![BandrewDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BandrewDev&show_icons=true&theme=default&hide_border=true&count_private=true)
+![BandrewDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewlewa&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ---
 
-*🇮🇩 Based in Indonesia · Open to collaborate*
+_🇮🇩 Based in Indonesia · Open to collaborate_
