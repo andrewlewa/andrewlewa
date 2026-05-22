@@ -2,9 +2,11 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrewlewa/andrewlewa/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrewlewa/andrewlewa/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andrewlewa/andrewlewa/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -21,15 +23,6 @@
 ###
 
 <h1 align="left">🔧 What I Work On</h1>
-
-|                                    |                                                                    |
-| ---------------------------------- | ------------------------------------------------------------------ |
-| 🖥️ **Self-Hosting & Homelab**      | Proxmox, Docker, NAS, bare-metal — full stack ownership            |
-| 🎮 **Game Server Hosting**         | Minecraft, FiveM, Pterodactyl — powering communities from home     |
-| 🌐 **Networking & Infrastructure** | MikroTik, WireGuard, reverse tunneling, policy-based routing       |
-| 💻 **Web Development**             | Laravel, Node.js, custom tooling — I'd rather build it than buy it |
-| 📡 **Esports & Broadcast Tech**    | Live overlays, observer tooling, tournament management systems     |
-
 
 ###
 
@@ -65,16 +58,7 @@
 
 <p align="left">Game server & application hosting — self-hosted, production-grade, built from scratch. Minecraft · FiveM · Custom App Hosting · Managed with Pterodactyl</p>
 
-###
-
-<h1 align="left">📊 GitHub Stats</h1>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/andrewlewa/andrewlewa/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/andrewlewa/andrewlewa/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+[![Discord BandrewStore](https://discord.com/api/guilds/1057947763398160404/widget.png?style=banner2)](https://discord.gg/a7RffWn6hh)
 
 ###
 
@@ -83,11 +67,5 @@
 ###
 
 <h3 align="left">🇮🇩 Based in Indonesia · Open to collaborate</h3>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
