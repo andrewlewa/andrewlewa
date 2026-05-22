@@ -37,6 +37,7 @@ I run a homelab-powered hosting business and love getting my hands dirty with ne
 
 Game server & application hosting — self-hosted, production-grade, built from scratch.
 Minecraft · FiveM · Custom App Hosting · Managed with Pterodactyl
+[![Discord BandrewStore](https://discord.com/api/guilds/1057947763398160404/widget.png?style=banner2)](https://discord.gg/a7RffWn6hh)
 
 ---
 
